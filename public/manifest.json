@@ -1,11 +1,10 @@
-
 {
   "manifest_version": 3,
-  "name": "Sample App",
+  "name": "Timer App",
   "version": "0.0.1",
 
   "action": {
-    "default_title": "サンプルアプリ"
+    "default_title": "タイマー"
   },
-  "description": "React で Chrome 拡張機能を作るためのサンプル"
+  "description": "Timer for Google extension"
 }
